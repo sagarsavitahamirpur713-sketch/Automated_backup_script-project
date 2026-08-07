@@ -1,0 +1,19 @@
+# Actual backup files — don't upload on github
+*.tar.gz
+*.zip
+*.bak
+
+# Log files — auto generate happened
+logs/*.log
+*.log
+
+# Keep logs folder
+!logs/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.swp
