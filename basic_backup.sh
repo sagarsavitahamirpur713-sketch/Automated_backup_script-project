@@ -6,6 +6,8 @@
 # About  : Documents folder ka simple backup
 # Usage  : ./basic_backup.sh
 # ============================================
+#backup like checking storage and ram uses by the system
+#system backup script is available
 
 # Variables define karo
 SOURCE="$HOME/documents"          # kya backup karna hai
